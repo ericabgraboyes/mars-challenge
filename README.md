@@ -15,4 +15,8 @@ The assignment consists of two technical products:
         * assemble scraped table into a Pandas DF -- the column names should match the website table
         * analyze the data type on the columns and convert as necessary for analysis purposes
         * use the dataframe to analyze following questions:
-            * 
+            * How many months exist on Mars?
+            * How many Martian days worth of data exist in the scraped dataset
+            * What are the coldest and warmest months? Plot results as a bar chart
+            * Which months have the lowest and highest atmospheric pressure? Plot results as a barchart
+            * How many earth days exist in a Martian year?  Answer should include graphical plot
